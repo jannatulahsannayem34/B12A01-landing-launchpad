@@ -218,6 +218,6 @@ footer h1{
 .about-items{
     display: flex;
     justify-content: center;
-    gap:50px ;
+    gap:40px ;
     
 }
