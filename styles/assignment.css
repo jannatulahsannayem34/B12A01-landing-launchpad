@@ -117,11 +117,12 @@ nav ul li{
 .card-container h2{
     text-align: center;
     max-width: 2500px;
+    /* margin: 100px; */
 }
 .card-reviewer{
     display: flex;
     gap: 6px;
-    margin:24px 24px 24px 0px;
+    margin:24px 24px 24px 24px;
     
 }
 .card{
