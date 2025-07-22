@@ -88,10 +88,13 @@ nav ul li{
     padding: 20px 30px;
     border-radius: 10px;
     text-align: center;
-    /* width: 90%; */
-    max-width: 1500px;
+    width: 85%;
+    /* max-width: 2000px; */
     margin: 100px 159px 100px 141px;
 
+}
+.container{
+    max-width: 2500px;
 }
 .stat-container h2{
     font-size:38px ;
