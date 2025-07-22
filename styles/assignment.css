@@ -116,6 +116,7 @@ nav ul li{
 /* card-items */
 .card-container h2{
     text-align: center;
+    max-width: 2500px;
 }
 .card-reviewer{
     display: flex;
